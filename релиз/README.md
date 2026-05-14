@@ -103,6 +103,6 @@ MIT License. Проект разработан в рамках учебной п
 
 - **Кучеев Егор:** e.kucheev@yandex.ru
 - **Гончар Кирилл:** Kirillgon.kirill@mail.ru
-- **Репозиторий:** https://github.com/2Dbaca/Web-platform-for-booking-and-managing-tours-
+- **Репозиторий:** https://github.com/2Dbaca/Tour_Platform.git
 
 *© 2026 Веб-платформа для бронирования и управления турами*
