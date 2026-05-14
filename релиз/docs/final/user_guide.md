@@ -131,7 +131,7 @@
 ## 6. Контакты
 
 - **Репозиторий проекта:**  
-  https://github.com/2Dbaca/Web-platform-for-booking-and-managing-tours-
+  https://github.com/2Dbaca/Tour_Platform.git
 - **Разработчики:**  
    Кучеев Егор — e.kucheev@yandex.ru  
    Гончар Кирилл — Kirillgon.kirill@mail.ru
