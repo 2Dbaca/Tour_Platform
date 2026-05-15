@@ -20,8 +20,8 @@
 ### 2.1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/2Dbaca/Web-platform-for-booking-and-managing-tours-.git
-cd Web-platform-for-booking-and-managing-tours-
+git clone https://github.com/2Dbaca/Tour_Platform.git
+cd Tour_Platform
 ```
 
 ### 2.2. Запуск контейнеров
