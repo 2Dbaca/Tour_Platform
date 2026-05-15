@@ -89,11 +89,11 @@ docker-compose down
 
 | Документ | Путь |
 |----------|------|
-| Руководство пользователя | [`docs/final/user_guide.md`](docs/final/user_guide.md) |
-| Руководство разработчика | [`docs/final/dev_guide.md`](docs/final/dev_guide.md) |
-| Инструкция по развёртыванию | [`docs/final/deploy.md`](docs/final/deploy.md) |
-| Анализ расхождений | [`docs/final/deviations.md`](docs/final/deviations.md) |
-| Проектная документация | [`docs/projecting/`](docs/projecting/) |
+| Руководство пользователя | [`docs/final/user_guide.md`](релиз/docs/final/user_guide.md) |
+| Руководство разработчика | [`docs/final/dev_guide.md`](релиз/docs/final/dev_guide.md) |
+| Инструкция по развёртыванию | [`docs/final/deploy.md`](релиз/docs/final/deploy.md) |
+| Анализ расхождений | [`docs/final/deviations.md`](релиз/docs/final/deviations.md) |
+| Проектная документация | [`docs/projecting/`](релиз/docs/projecting/) |
 
 ## 📄 Лицензия
 
