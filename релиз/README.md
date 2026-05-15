@@ -46,8 +46,8 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/2Dbaca/Web-platform-for-booking-and-managing-tours-.git
-cd Web-platform-for-booking-and-managing-tours-
+git clone https://github.com/2Dbaca/Tour_Platform.git
+cd Tour_Platform
 
 # Запуск контейнеров
 docker-compose up -d
